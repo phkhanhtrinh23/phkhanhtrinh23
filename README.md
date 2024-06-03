@@ -9,7 +9,9 @@ My name is Trình. I am currently conducting research on Natural Language Proces
   <img src="http://img.shields.io/badge/AAAI-2024-001B37.svg" alt="Conference">
 </a>
       
-*LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training*. Khoi M Le, Trinh Pham, Tho Quan, Anh Tuan Luu. Proceedings of the AAAI Conference on Artificial Intelligence (2024). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29804)]
+*LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training*. Khoi M Le*, Trinh Pham*, Tho Quan, Anh Tuan Luu. Proceedings of the AAAI Conference on Artificial Intelligence (2024). [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29804)]
+
+(_*: Equal Contribution_) 
 
 ## 📈 Github Stats
 
