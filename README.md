@@ -3,7 +3,7 @@
 
 My name is Trình. I am currently conducting research on Natural Language Processing topics, including Generative AI, Cross-lingual Generalization, and Low-resource Adaptation.
 
-## Solid work
+## Solid Works
 
 *UniBridge: A Unified Approach to Cross-Lingual Transfer Learning for Low-Resource Languages*. Trinh Pham*, Khoi M Le*, Luu Anh Tuan. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024, Main Conference) [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mKnZ5rwAAAAJ&citation_for_view=mKnZ5rwAAAAJ:9yKSN-GCB0IC)].
 
@@ -12,7 +12,6 @@ My name is Trình. I am currently conducting research on Natural Language Proces
 (_*: Equal Contribution_) 
 
 ## Github Stats
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=phkhanhtrinh23&theme=tokyonight&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkhanhtrinh23&theme=tokyonight&layout=compact&langs_count=6">
