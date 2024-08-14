@@ -5,7 +5,7 @@ My name is Trình. I am currently conducting research on Natural Language Proces
 
 ## Solid Works
 
-*UniBridge: A Unified Approach to Cross-Lingual Transfer Learning for Low-Resource Languages*. Trinh Pham*, Khoi M Le*, Luu Anh Tuan. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024, Main Conference) [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mKnZ5rwAAAAJ&citation_for_view=mKnZ5rwAAAAJ:9yKSN-GCB0IC)].
+*UniBridge: A Unified Approach to Cross-Lingual Transfer Learning for Low-Resource Languages*. Trinh Pham*, Khoi M Le*, Luu Anh Tuan. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024, Main Conference) [[paper](https://aclanthology.org/2024.acl-long.174)].
 
 *LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training*. Khoi M Le*, Trinh Pham*, Tho Quan, Anh Tuan Luu. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2024, Main Conference) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29804)].
 
