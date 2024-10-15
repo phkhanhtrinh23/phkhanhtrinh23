@@ -15,5 +15,5 @@ My name is Trình. I am currently conducting research on Natural Language Proces
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=phkhanhtrinh23&theme=shadow_green&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkhanhtrinh23&theme=shadow_green&layout=compact&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api?username=phkhanhtrinh23&theme=nightowl&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkhanhtrinh23&theme=nightowl&layout=compact&langs_count=6">
