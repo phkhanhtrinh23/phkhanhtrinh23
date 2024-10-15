@@ -1,6 +1,6 @@
 import requests
 
-username = "your_github_username"
+username = "phkhanhtrinh23"
 url = f"https://api.github.com/users/{username}/repos"
 
 response = requests.get(url)
