@@ -10,9 +10,13 @@ total_forks = sum(repo['forks_count'] for repo in repos)
 
 print(f"Total Forks: {total_forks}")
 
-original_file = "\n".join(open("README.md", "r").readlines())
+insert_str = f"\n![Total forks](https://img.shields.io/badge/Total%20forks-{total_forks}-brightgreen)\n"
+original_file = open("README.md", "r").readlines()
+for idx, line in enumerate(original_file):
+    if line.startswith("<img src="):
+        break
+original_file = original_file[:idx+1] + [insert_str] + original_file[idx+1:]
+original_file = "".join(original_file)
 
-# Save the result in README format
-f.write(original_file + "\n")
 with open("README.md", "w") as f:
-    f.write(f"![Total Forks](https://img.shields.io/badge/Total%20Forks-{total_forks}-brightgreen)\n")
+    f.writelines(original_file)
