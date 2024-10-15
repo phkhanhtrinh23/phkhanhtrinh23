@@ -10,6 +10,9 @@ total_forks = sum(repo['forks_count'] for repo in repos)
 
 print(f"Total Forks: {total_forks}")
 
+original_file = "\n".join(open("README.md", "r").readlines())
+
 # Save the result in README format
+f.write(original_file + "\n")
 with open("README.md", "w") as f:
     f.write(f"![Total Forks](https://img.shields.io/badge/Total%20Forks-{total_forks}-brightgreen)\n")
