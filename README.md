@@ -1,7 +1,7 @@
 # Hi there 👋 , I’m Trình!
 <img src="https://komarev.com/ghpvc/?username=phkhanhtrinh23&color=blue">
 
-![Total forks](https://img.shields.io/badge/Total%20forks-22-brightgreen)
+![Total forks](https://img.shields.io/badge/Total%20forks-27-brightgreen)
 
 My name is Trình. I am currently conducting research on Natural Language Processing topics, including Generative AI, Cross-lingual Generalization, and Low-resource Adaptation.
 
