@@ -14,6 +14,7 @@ My name is Trình. I am currently conducting research on Natural Language Proces
 (_*: Equal Contribution_) 
 
 ## Github Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=phkhanhtrinh23&theme=nightowl&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phkhanhtrinh23&theme=nightowl&layout=compact&langs_count=6">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phkhanhtrinh23&theme=nightowl&background=000000)](https://git.io/streak-stats)
